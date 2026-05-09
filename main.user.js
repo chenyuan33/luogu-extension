@@ -4,9 +4,11 @@
 // @copyright    2026, chenyuan3
 // @license      MIT
 // @icon         https://chenyuan33.github.io/favicon.png
+// @updateURL    https://openuserjs.org/meta/chenyuan3/Luogu+_by_cy3.meta.js
+// @downloadURL  https://openuserjs.org/install/chenyuan3/Luogu+_by_cy3.user.js
 // @homepageURL  https://github.com/chenyuan33/luogu-extension
 // @supportURL   https://github.com/chenyuan33/luogu-extension/issues
-// @version      v1.0.0
+// @version      v1.0.1
 // @author       chenyuan3
 // @match        https://www.luogu.com.cn/*
 // @match        https://www.luogu.com/*
