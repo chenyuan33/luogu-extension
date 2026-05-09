@@ -1,6 +1,6 @@
 # Luogu+ by cy3
 
-cy3 制作的洛谷插件。
+cy3 制作的洛谷插件。[洛谷专栏介绍页面](https://www.luogu.com.cn/article/9y8vs86c)。
 
 ## 功能介绍
 
@@ -28,26 +28,23 @@ cy3 制作的洛谷插件。
 
 ### 安装脚本
 
-#### GreasyFork
-
-暂不支持。
-
 #### OpenUserJS
 
 1. 打开 [OpenUserJS 脚本页](https://openuserjs.org/scripts/chenyuan3/Luogu+_by_cy3)
-2. 点击 **Install**  
+2. 点击 **Install**
 3. TamperMonkey 弹出安装确认窗口，点击 **安装** 即可
 
 #### 手动创建脚本
 
-1. 点击 TamperMonkey 图标 -> **添加新脚本**  
-2. 删除默认代码，粘贴 [`main.user.js`](main.user.js) 的完整源码  
-3. 保存（Ctrl + S）
+1. 点击 TamperMonkey 图标
+2. 点击 **添加新脚本**
+3. 删除默认代码，粘贴 [`main.user.js`](main.user.js) 的完整源码
+4. 保存（Ctrl + S）
 
 ### 更新
 
-- 脚本默认随 OpenUserJS 自动检查更新  
-- 也可手动点击 TamperMonkey 图标 → **检查脚本更新**
+- 脚本默认随 OpenUserJS 自动检查更新
+- 也可手动点击 OpenUserJS 图标，点击 **检查脚本更新**
 
 ## 贡献说明
 
@@ -57,7 +54,7 @@ cy3 制作的洛谷插件。
 
 发现一个问题时：
 
-1. 关闭所有插件，尝试复现：如果复现成功，那么说明是洛谷官方的问题，应提交[洛谷工单](https://www.luogu.com.cn/ticket/new?type=.suggestion)；否则继续
+1. 关闭所有插件，尝试复现：如果复现成功，那么说明是洛谷官方的问题，应提交[洛谷工单](https://www.luogu.com.cn/ticket/new?type=.suggestion)（如果洛谷工单被关闭，可请求让此插件尝试修复，**需要附带工单链接**）；否则继续
 2. **只**开启此插件，尝试复现：如果复现失败，那么说明是其它插件的问题，不应在此报告；否则继续
 3. 前往 [GitHub Issues](https://github.com/chenyuan3/luogu-extension/issues) 描述问题，叙述清楚**问题的具体稳定复现方式**和**控制台报错截图（如有）**
 
@@ -67,15 +64,15 @@ cy3 制作的洛谷插件。
 
 ### 参与代码开发
 
-1. Fork 本仓库  
-2. 创建特性分支 (`git checkout -b feature/amazing-feature`)  
-3. 提交修改 (`git commit -m 'Add some amazing feature'`)  
-4. 推送到分支 (`git push origin feature/amazing-feature`)  
+1. Fork 本仓库
+2. 创建特性分支 (`git checkout -b feature/amazing-feature`)
+3. 提交修改 (`git commit -m 'Add some amazing feature'`)
+4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 打开 Pull Request
 
 ### 代码规范
 
-- 使用 ES6 语法，保持代码整洁  
+- 使用 ES6 语法，保持代码整洁
 - 重大改动请先通过 Issue 讨论，避免重复工作
 
 ## 许可证
