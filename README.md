@@ -1,5 +1,7 @@
 # Luogu+ by cy3
 
+cy3 制作的洛谷插件。
+
 ## 功能介绍
 
 **只支持新前端页面。**
@@ -32,7 +34,9 @@
 
 #### OpenUserJS
 
-暂不支持。
+1. 打开 [OpenUserJS 脚本页](https://openuserjs.org/scripts/chenyuan3/Luogu+_by_cy3)
+2. 点击 **Install**  
+3. TamperMonkey 弹出安装确认窗口，点击 **安装** 即可
 
 #### 手动创建脚本
 
@@ -42,7 +46,7 @@
 
 ### 更新
 
-- 脚本默认随 GreasyFork 自动检查更新  
+- 脚本默认随 OpenUserJS 自动检查更新  
 - 也可手动点击 TamperMonkey 图标 → **检查脚本更新**
 
 ## 贡献说明
